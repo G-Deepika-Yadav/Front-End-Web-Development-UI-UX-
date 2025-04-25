@@ -27,8 +27,18 @@ In this application, users can enter their tasks, set deadlines, mark them as co
 We have also added visual elements like icons and styled buttons to improve the user experience. The application is fully open source and can be easily customized or expanded as needed.
 This project helps improve productivity, encourages better time management, and is suitable for both personal and professional use.
 
- OUTPUT:
+ OUTPUT: Interface of web application:
 ![pic1](https://github.com/user-attachments/assets/b49f57a8-fabb-4736-b4aa-35d87f176fc5)
+
+Adding Some List:
+![pic2](https://github.com/user-attachments/assets/9407a659-2f2f-47fa-b948-c5c0d716c00a)
+
+Deleting Some List:
+![pic3](https://github.com/user-attachments/assets/b5971bcf-503c-4ef9-9e0e-f0388cd9687a)
+
+                                       THANK YOU....!!
+
+
 
 
 
